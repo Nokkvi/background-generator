@@ -21,5 +21,5 @@ color2.addEventListener("input", setGradient);
 
 randomButton.addEventListener("click", setRandomColours);
 
-setGradient();
+setRandomColours();
 
